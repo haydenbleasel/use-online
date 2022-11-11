@@ -1,12 +1,13 @@
 import { useEffect, useState } from 'react';
 
 const useOnline = (): boolean => {
-  const defaultOnline = typeof window === 'undefined' ? true : window.navigator.onLine;
+  const defaultOnline =
+    typeof window === 'undefined' ? true : window.navigator.onLine;
   const [isOnline, setIsOnline] = useState(defaultOnline);
 
   useEffect(() => {
     if (typeof window === 'undefined') {
-      return;
+      return undefined;
     }
 
     const handleOnline = () => {
