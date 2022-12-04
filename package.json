@@ -1,6 +1,6 @@
 {
   "name": "@haydenbleasel/use-online",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A tiny, zero-dependency, SSR-friendly hook for responding to online / offline changes.",
   "files": [
     "dist"
