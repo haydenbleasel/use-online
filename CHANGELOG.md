@@ -1,3 +1,27 @@
+# v1.0.2 (Sun Dec 04 2022)
+
+#### ⚠️ Pushed to `main`
+
+- Create auto-merge.yml ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### 🔩 Dependency Updates
+
+- Bump typescript from 4.8.4 to 4.9.3 [#14](https://github.com/haydenbleasel/use-online/pull/14) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump stylelint from 14.14.1 to 14.15.0 [#15](https://github.com/haydenbleasel/use-online/pull/15) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump eslint from 8.27.0 to 8.28.0 [#17](https://github.com/haydenbleasel/use-online/pull/17) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump prettier from 2.7.1 to 2.8.0 [#18](https://github.com/haydenbleasel/use-online/pull/18) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @typescript-eslint/eslint-plugin from 5.42.1 to 5.45.0 [#20](https://github.com/haydenbleasel/use-online/pull/20) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump eslint-plugin-react from 7.31.10 to 7.31.11 [#21](https://github.com/haydenbleasel/use-online/pull/21) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @haydenbleasel/harmony from 1.1.8 to 1.1.9 [#22](https://github.com/haydenbleasel/use-online/pull/22) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @types/react-dom from 18.0.8 to 18.0.9 [#12](https://github.com/haydenbleasel/use-online/pull/12) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
 # v1.0.1 (Fri Nov 11 2022)
 
 #### ⚠️ Pushed to `main`
