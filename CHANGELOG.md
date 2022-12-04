@@ -1,3 +1,16 @@
+# v1.0.3 (Sun Dec 04 2022)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of https://github.com/haydenbleasel/use-online ([@haydenbleasel](https://github.com/haydenbleasel))
+- Rename auto-merge ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
 # v1.0.2 (Sun Dec 04 2022)
 
 #### ⚠️ Pushed to `main`
