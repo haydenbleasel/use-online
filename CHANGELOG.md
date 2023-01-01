@@ -1,3 +1,16 @@
+# v1.0.5 (Sun Jan 01 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of https://github.com/beskar-co/use-online ([@haydenbleasel](https://github.com/haydenbleasel))
+- Delete auto-merge.yml ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
 # v1.0.4 (Sun Jan 01 2023)
 
 #### ⚠️ Pushed to `main`
