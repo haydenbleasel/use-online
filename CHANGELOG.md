@@ -1,3 +1,15 @@
+# v1.0.4 (Sun Jan 01 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Remove unused next dep ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
 # v1.0.3 (Sun Dec 04 2022)
 
 #### ⚠️ Pushed to `main`
