@@ -1,3 +1,21 @@
+# v1.0.6 (Mon Jan 09 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Bump deps ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### 🔩 Dependency Updates
+
+- Bump prettier from 2.8.0 to 2.8.1 [#34](https://github.com/beskar-co/use-online/pull/34) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump eslint from 8.28.0 to 8.31.0 [#36](https://github.com/beskar-co/use-online/pull/36) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
 # v1.0.5 (Sun Jan 01 2023)
 
 #### ⚠️ Pushed to `main`
